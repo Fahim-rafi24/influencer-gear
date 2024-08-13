@@ -1,0 +1,31 @@
+
+.header-camera-bg{
+    background-image: url("../media/images/01.Circle\ design.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+.card-Section > div > h6{
+    font-family: "Inter", sans-serif;
+}
+.card-Section > div > p{
+    font-family: "Inter", sans-serif;
+}
+.card-Section > div > div > small{
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+
+
+
+
+
+
